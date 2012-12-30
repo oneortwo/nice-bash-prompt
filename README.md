@@ -1,6 +1,3 @@
-nice bash prompt
-================
-
 ## Because everyone wants a nice terminal promt prompt
 
 ### Instructions
