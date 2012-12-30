@@ -1,4 +1,4 @@
-## Because everyone wants a nice terminal promt prompt
+## Because everyone wants a nice terminal promt
 
 ### Instructions
 
