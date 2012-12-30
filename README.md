@@ -16,6 +16,3 @@ to
     λ
 
 Ah.
-
-Also.., why the lamda (λ)?
-Nerdiness?
